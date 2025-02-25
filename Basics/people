@@ -1,0 +1,5 @@
+const people = ['yoshi', 'ryu', 'chu', 'mario'];
+const ages = [23, 12, 65, 25]
+// console.log(people)
+
+module.exports = {people, ages}
